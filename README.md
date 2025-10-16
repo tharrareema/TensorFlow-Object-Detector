@@ -44,6 +44,4 @@ Python • TensorFlow / Keras • OpenCV • LabelImg / VGG Image Annotator • 
 
 ✅ **Deployment:** Successfully deployed in a TensorFlow app for real-time inference.
 
-</details>
-
 ---
